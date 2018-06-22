@@ -20,8 +20,8 @@ import (
 	"io"
 	"os"
 
-	"grape/pkg/interrupt"
-	"grape/pkg/term"
+	"grapehttp/pkg/interrupt"
+	"grapehttp/pkg/term"
 )
 
 // SafeFunc is a function to be invoked by TTY.

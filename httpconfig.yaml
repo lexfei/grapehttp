@@ -12,7 +12,7 @@ noaccess: false # 所有用户是否被禁止访问(服务器根目录)
 admin_username: admin # 管理员用户名
 admin_password: admin # 管理员密码
 admin_email: 466701708@qq.com # 管理员email地址
-#root: /home/lkong/fileserver # http server的根目录
+root: /home/lkong/fileserver # http server的根目录
 simpleauth: true # 权限校验码方式，true仅检查用户名:密码是否和auth.http一致, 
                   # false会检查数据库中注册的用户名和密码是否一致
 rbac:

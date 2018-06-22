@@ -19,8 +19,8 @@ package term
 import (
 	"fmt"
 
-	"grape/pkg/runtime"
-	"grape/pkg/term"
+	"grapehttp/pkg/runtime"
+	"grapehttp/pkg/term"
 )
 
 type TerminalSize struct {

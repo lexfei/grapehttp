@@ -19,7 +19,7 @@ limitations under the License.
 package term
 
 import (
-	"grape/pkg/term"
+	"grapehttp/pkg/term"
 )
 
 // SetSize sets the terminal size associated with fd.

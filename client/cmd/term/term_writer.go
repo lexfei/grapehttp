@@ -21,7 +21,7 @@ import (
 	"os"
 
 	wordwrap "github.com/mitchellh/go-wordwrap"
-	"grape/pkg/term"
+	"grapehttp/pkg/term"
 )
 
 type wordWrapWriter struct {

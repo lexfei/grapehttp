@@ -61,7 +61,7 @@ var (
 	VERSION   = "unknown"
 	BUILDTIME = "unknown time"
 	GITCOMMIT = "unknown git commit"
-	SITE      = "https://github.com/lexkong/grapehttp"
+	SITE      = "https://github.com/lexfei/grapehttp"
 )
 
 func versionMessage() string {
